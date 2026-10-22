@@ -1,0 +1,5 @@
+.venv/
+smart_campus.db
+__pycache__/
+.idea/
+*.pyc
