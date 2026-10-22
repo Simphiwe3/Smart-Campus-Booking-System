@@ -4,6 +4,7 @@ Programming 512 - Smart Campus Booking System
 
 ## Project Links (Traceable)
 **Repository Link:** https://github.com/Simphiwe3/Smart-Campus-Booking-System
+
 **Developer Profile:** https://github.com/Simphiwe3
 
 ## Project Description
